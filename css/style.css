@@ -1,7 +1,7 @@
 body {
 	font-family: 'Georgia', sans-serif;
 	color: #FAF3BC;
-	background: #020600 url('img/bg-texture.jpg') repeat;
+	background: #020600 url('img/sky_texture.jpg') repeat;
 }
 
 a {
@@ -20,8 +20,8 @@ h2 {
 }
 
 .btn {
-    color: #FAF3BC;
-    background: #4FB69F url('img/texture.png') no-repeat right top;
+    color: #000000;
+    background: #4FB69F url('img/texture2.png') no-repeat right top;
     padding: 15px 20px;
     margin: 30px 0px;
     border-radius: 25px;
